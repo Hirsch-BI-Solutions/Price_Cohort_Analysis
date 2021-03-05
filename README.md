@@ -17,12 +17,13 @@ In the images bellow you can confront the monthly average price changes with the
 - 130 - Chile
 - 145 - Germany  
 - 155 - Swiss
-- 165 - France + South Africa
+- 165 - France 
 - 175 - Belgium
 - 177 - Denmark
 - 185 - Finland
 - 188 - Luxembourg
 - 190 - Netherlands
+- 195 - South Africa
 
 
 
