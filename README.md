@@ -6,9 +6,8 @@ The aim of this approach is to see average price changes on monthly cohorts in d
 In the images bellow you can confront the monthly average price changes with the country code distribution on monthly cohorts. 
 
 
+![avg_px](https://user-images.githubusercontent.com/47668423/110117368-0a4a5f00-7db9-11eb-8cdd-04236c80de57.png)
 
-
-![avg_px](https://user-images.githubusercontent.com/47668423/110114045-4c24d680-7db4-11eb-9ebf-c2ba661c3051.png)
 
 
 
