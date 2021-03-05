@@ -15,14 +15,14 @@ In the images bellow you can confront the monthly average price changes with the
 ### Country codes
 
 - 130 - Chile
-- 145 - Germany + Netherlands
+- 145 - Germany  
 - 155 - Swiss
 - 165 - France + South Africa
 - 175 - Belgium
 - 177 - Denmark
 - 185 - Finland
 - 188 - Luxembourg
-
+- 190 - Netherlands
 
 
 
