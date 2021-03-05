@@ -14,11 +14,15 @@ In the images bellow you can confront the monthly average price changes with the
 
 ### Country codes
 
-- Domestic electricity analysis 
-- Ferntech Berlin  
-- Konrad Adenauer Economic Policy 
-- BA Jobs report 
-- Bertelsmann Scholarship Exercise 
+- 130 
+- 145 
+- 155
+- 165
+- 175
+- 177
+- 185
+- 188
+
 
 
 
