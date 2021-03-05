@@ -8,8 +8,7 @@ In the images bellow you can confront the monthly average price changes with the
 
 
 
-![avg_px](https://user-images.githubusercontent.com/47668423/110117097-b3448a00-7db8-11eb-9ab7-f73b43136c1e.png)
-
+![avg_px](https://user-images.githubusercontent.com/47668423/110114045-4c24d680-7db4-11eb-9ebf-c2ba661c3051.png)
 
 
 
@@ -28,5 +27,7 @@ In the images bellow you can confront the monthly average price changes with the
 
 
 
-![country distribution](https://user-images.githubusercontent.com/47668423/110113955-2f889e80-7db4-11eb-91c9-aac5fc2aa1e1.png)
+![country distribution](https://user-images.githubusercontent.com/47668423/110117206-d707d000-7db8-11eb-98ba-33e4e22abc6c.png)
+
+
 
